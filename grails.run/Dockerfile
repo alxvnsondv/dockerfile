@@ -1,6 +1,6 @@
 # Version: 1
 # Name: grails2.4.3.run
-FROM yan047/base.grails2.4.3
+FROM yan047/grails2.4.3
 
 MAINTAINER "boyan.au@gmail.com"
 
