@@ -1,3 +1,5 @@
+# Version: 1
+# Name: grails2.4.3
 FROM yan047/tomcat7
 
 ENV DEBIAN_FRONTEND noninteractive
