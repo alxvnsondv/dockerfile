@@ -1,5 +1,5 @@
 # Version: 1
-# Name: tomcat7v2:1
+# Name: tomcat7v2:v1
 FROM yan047/jdk7v2:latest
 
 MAINTAINER "boyan.au@gmail.com"
