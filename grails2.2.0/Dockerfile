@@ -1,6 +1,6 @@
 # Version: 1
 # Name: jdk6
-FROM yan047/jdk6
+FROM yan047/jdk6:1
 
 MAINTAINER "boyan.au@gmail.com"
 
