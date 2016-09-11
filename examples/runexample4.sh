@@ -1,0 +1,1 @@
+docker run -d --name grailsdemo -p 80:8080 -v /c/Users/yan073/docker/example4:/deployment yan047/grails2.4.3.run

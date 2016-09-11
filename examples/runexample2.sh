@@ -1,0 +1,1 @@
+docker run -d --name app1 example2 java App World
